@@ -11,10 +11,9 @@
 ### <div align="left">I'm Ali, a passionate full-stack developer 👨‍💻</div>  
   
 
-<div align="left">🔭 I’m currently working on an ERP</div>  
 
 
-<div align="left">🌱 I’m currently learning Vue JS </div> 
+<div align="left">🌱 I’m currently learning JAVA in depth </div> 
 
 <br/>  
 
