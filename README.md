@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Ali Benhima and I'm a full stack developer</h2>
+<h2 align="left">Hi 👋! My name is Ali Benhima and I'm a software engineer</h2>
 
 ###
 
